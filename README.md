@@ -1,6 +1,20 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can find the application hosted on: https://bejewelled-puppy-063d64.netlify.app/ \
+This application is a prototype of the standard Notes app \
+
+
+Features of this App:
+1. Create New Note
+2. Delete Note 
+3. Modify Notes
+4. Save contents of the note
+
+Technical Features of the App:
+1. Used react-mde to implement the editor of the application
+2. UseState, UseEffect hooks are used to maintain consistency among the notes
+3. Used LocalStorage to save contents of the note on a browser
 
 ## Available Scripts
 
